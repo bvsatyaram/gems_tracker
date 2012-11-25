@@ -1,0 +1,34 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    RubyDataStructures (1.1.0)
+    ValidateEmail (1.0.0)
+    back_mark (1.0.0)
+    facebooker3 (0.0.1)
+    ffi (1.2.0)
+    fixture_generator (0.0.2)
+    flames (1.0.0)
+    hpricot (0.8.6)
+    quick_scrapper (1.0.0)
+      scrapi
+    random_password_generator (1.0.0)
+    scrapi (2.0.0)
+      tidy_ffi (>= 0.1.2)
+    tidy_ffi (0.1.4)
+      ffi (>= 0.3.5)
+    truncateHTML (1.0.0)
+      hpricot
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  RubyDataStructures
+  ValidateEmail
+  back_mark
+  facebooker3
+  fixture_generator
+  flames
+  quick_scrapper
+  random_password_generator
+  truncateHTML
