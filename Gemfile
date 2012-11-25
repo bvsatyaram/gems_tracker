@@ -1,0 +1,11 @@
+source 'http://rubygems.org'
+
+gem 'RubyDataStructures'
+gem 'random_password_generator'
+gem 'ValidateEmail'
+gem 'quick_scrapper'
+gem 'flames'
+gem 'truncateHTML'
+gem 'back_mark'
+gem 'fixture_generator'
+gem 'facebooker3'
